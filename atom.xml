@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IceWu|Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-12T23:30:05.120Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>IceWu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端单词小结</title>
+    <link href="http://yoursite.com/2019/04/12/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/04/12/第一篇博客/</id>
+    <published>2019-04-12T14:56:32.000Z</published>
+    <updated>2019-04-12T23:30:05.120Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>页面布局</strong>（layout）</p><p>header 头部/页眉；<br> index 首页/索引；<br> logo  标志；<br>nav/sub_nav 导航/子导航；<br>banner 横幅广告；<br>main/content 主体/内容；<br>container/con 容器；<br>wrapper/wrap 包裹（类似于container）；<br>menu  菜单；<br>sub_menu /second_menu 子菜单/二级菜单；<br>list 列表；<br>section  分区/分块（类似于div）;<br>article  文章；<br>aside  侧边栏/广告；<br>footer  页脚/底部；<br>title/sub_title 标题/副标题；<br>news  新闻；<br>hot  热点；<br>pro 产品（product）；<br>company 公司；<br>msg/info  信息（message）/消息；<br>ads  广告（advertisements）;<br>icon 小图标；<br>img  图片（image）；<br>copyright  版权；<br>contact_us  联系我们；<br>friend_link 友情链接；<br>tel 联系电话（telephone）；<br>address 地址；</p><hr><a id="more"></a><p><strong>CSS样式</strong>（style）</p><p>CSS 层叠样式表 (Cascading Style Sheets) ；<br>background 背景；<br>position 位置/定位；<br>relative/absolute/fixed 相对定位/绝对定位/固定定位；<br>float 浮动；<br>clear 清除；<br>vertical-align: middle/top/bottom; 垂直居中/上/下；<br>line-height 行高；<br>margin 外边距；<br>padding 内边距；<br>border 边框；<br>border-radius 圆角；<br>shadow 阴影；<br>display 展示；<br>hidden 隐藏；<br>block/inline-block 块元素/行内块；<br>overflow 溢出；<br>cursor 光标；<br>animation 动画；<br>css sprites 雪碧图/图片精灵；<br>column 分列；<br>flex 弹性（布局）；</p><p>表单（form）与表格（table）<br>form 表单；<br>action 行为；<br>method 方式/方法；<br>input 输入框；<br>label 标签；<br>password 密码；<br>radio 单选框；<br>checkbox 复选框；<br>btn 按钮（button）；<br>submit/reset 提交/重置；<br>textarea 文本域；<br>select/option 选择框/选择项；<br>placeholder 占位符（起提示作用）；<br>search 搜索；<br>icon 小图标；<br>autofocus 自动聚焦；<br>disabled 禁用；<br>checked 选中（单选框/复选框）；<br>selected 默认选择项（下拉选择框）；<br>required 必填项；<br>readonly 只读；<br>table 表格；<br>thead/tbody/tfoot 表格标题/主体/底部；<br>colspan 跨列；<br>rowspan 跨行；<br>cellspacing 单元格间距（类似于margin）；<br>cellpadding 单元格边距（类似于padding）；<br>border-collapse: collapse; 边框合并（用于table上）；</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;页面布局&lt;/strong&gt;（layout）&lt;/p&gt;
+&lt;p&gt;header 头部/页眉；&lt;br&gt; index 首页/索引；&lt;br&gt; logo  标志；&lt;br&gt;nav/sub_nav 导航/子导航；&lt;br&gt;banner 横幅广告；&lt;br&gt;main/content 主体/内容；&lt;br&gt;container/con 容器；&lt;br&gt;wrapper/wrap 包裹（类似于container）；&lt;br&gt;menu  菜单；&lt;br&gt;sub_menu /second_menu 子菜单/二级菜单；&lt;br&gt;list 列表；&lt;br&gt;section  分区/分块（类似于div）;&lt;br&gt;article  文章；&lt;br&gt;aside  侧边栏/广告；&lt;br&gt;footer  页脚/底部；&lt;br&gt;title/sub_title 标题/副标题；&lt;br&gt;news  新闻；&lt;br&gt;hot  热点；&lt;br&gt;pro 产品（product）；&lt;br&gt;company 公司；&lt;br&gt;msg/info  信息（message）/消息；&lt;br&gt;ads  广告（advertisements）;&lt;br&gt;icon 小图标；&lt;br&gt;img  图片（image）；&lt;br&gt;copyright  版权；&lt;br&gt;contact_us  联系我们；&lt;br&gt;friend_link 友情链接；&lt;br&gt;tel 联系电话（telephone）；&lt;br&gt;address 地址；&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
